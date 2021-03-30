@@ -1,2 +1,2 @@
 # Symfony_Test
-Este es un proyecto de estudio con Symfonu
+Este es un proyecto de estudio con Symfony
